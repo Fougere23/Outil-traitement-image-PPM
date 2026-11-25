@@ -1,0 +1,13 @@
+# Programme compilé
+convert
+*.o
+
+
+# Images générées par les tests
+sortie*
+*.png
+
+
+# Fichiers Windows/éditeur
+.vscode/
+Thumbs.db
